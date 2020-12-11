@@ -3,7 +3,7 @@
 ## Hi, I'm Nestor Ospina 
 ## Master Student 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-nestor-ospina-blue)](https://www.https://www.linkedin.com/in/nestor-ospina/)
+[![](https://img.shields.io/badge/LinkedIn-nestorospina-blue)](https://www.https://www.linkedin.com/in/nestor-ospina/)
 [![](https://img.shields.io/badge/Gmail-niospinag%40unal.edu.co-red)](mailto:niospinag@unal.edu.co)
 
 
