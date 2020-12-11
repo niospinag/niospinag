@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```Python
+```python
 class niospinag:
     def __init__(self):
         self.name = "Nestor Ivan Ospina Gaitan"
@@ -18,12 +18,17 @@ class niospinag:
         self.languages = ["English", "Spanish"]
         self.code = ["python", "C++", "VHDL", "Verilog"]               
         self.frontEnd = ["HTML", "CSS"]
-        #self.interest = {"Academic": ["ML", "Multiagent system"],
-         #               }
+        self.software = {"Coding": ["vscode", "sublime", "Matlab", "Git", "jupiter", "Spyder"]
+                         "Hardware Description": ["ISEXilinxs","Vivado", "Quartus"],
+                         "Modeling":["Autocad","Solidworks", "Blender"],
+                         "Writing": ["Office", "Overleaf"]}
+        self.skills = ["Multiagent System", "Optimization", ""] 
+     def interest(self):
+        self.interest = ["ML", "Robotics", "Autonomous Driving", "Science and Technology"]
+        for topic in self.interest:
+            print("I'm interest in ", topic)
         
         
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-}
 ```
 
 ---
