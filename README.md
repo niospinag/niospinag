@@ -3,8 +3,8 @@
 ## Hi, I'm Nestor Ospina 
 ## Master Student 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.https://www.linkedin.com/in/nestor-ospina/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:niospinag@unal.edu.co)
+[![](https://img.shields.io/badge/LinkedIn-nestor-ospina-blue)](https://www.https://www.linkedin.com/in/nestor-ospina/)
+[![](https://img.shields.io/badge/Gmail-niospinag%40unal.edu.co-red)](mailto:niospinag@unal.edu.co)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
