@@ -10,9 +10,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```Python
-ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
+class niospinag:
+    def __init__(self):
+        self.name = "Nestor Ivan Ospina Gaitan"
+        self.education = {"Bachelor's in Electrical Engineering": "Universidad Nacional de Colombia",
+                           "Master in Industrial Aautomation"   : Universidad Nacional de Colombia }
+        self.languages = ["English", "Spanish"]
+        self.code = ["python", "C++", "VHDL", "Verilog"]               
+        self.frontEnd = ["HTML", "CSS"]
+        self.interest = {"Academic": ["ML", "Multiagent system"]}
+        
+        "pronouns": "He/ Him",
+    "Code": ["Python", ]
     technologies:{
         backEnd: ["nodejs", "express", "python"],
         fronEnd: ["angular"],
