@@ -14,34 +14,26 @@ class niospinag:
     def __init__(self):
         self.name = "Nestor Ivan Ospina Gaitan"
         self.education = {"Bachelor's in Electrical Engineering": "Universidad Nacional de Colombia",
-                           "Master in Industrial Aautomation"   : Universidad Nacional de Colombia }
+                           "Master in Industrial Aautomation"   : "Universidad Nacional de Colombia" }
         self.languages = ["English", "Spanish"]
         self.code = ["python", "C++", "VHDL", "Verilog"]               
         self.frontEnd = ["HTML", "CSS"]
-        self.interest = {"Academic": ["ML", "Multiagent system"]}
+        #self.interest = {"Academic": ["ML", "Multiagent system"],
+         #               }
         
-        "pronouns": "He/ Him",
-    "Code": ["Python", ]
-    technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
+        
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
 
 ---
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
-
 
 
 
 <!--
+
+⭐️ From [@ashrafkm](https://github.com/ashrafkm)
+
 **niospinag/niospinag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
