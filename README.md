@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Gmail-niospinag%40unal.edu.co-red)](mailto:niospinag@unal.edu.co)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"> A little more about me...  
 
 ```python
 class niospinag:
