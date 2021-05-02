@@ -55,3 +55,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+
+
+[![Nestor's github stats](https://github-readme-stats.vercel.app/api?username=niospinag&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niospinag)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
