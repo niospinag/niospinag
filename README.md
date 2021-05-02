@@ -65,3 +65,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niospinag&show_icons=true&theme=dark&line_height=30)](https://github.com/niospinag/github-readme-stats)
 
 </div>
+
+
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+</p>
