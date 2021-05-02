@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+
+  <img src="https://profile-counter.glitch.me/niospinag/count.svg" />
 </p>
