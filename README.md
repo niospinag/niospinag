@@ -16,13 +16,13 @@ class niospinag:
         self.education = {"Bachelor's in Electrical Engineering": "Universidad Nacional de Colombia",
                            "Master in Industrial Aautomation"   : "Universidad Nacional de Colombia" }
         self.languages = ["English", "Spanish"]
-        self.code = ["python", "C++", "VHDL", "Verilog"]               
+        self.code = ["Python", "C++", "VHDL", "Verilog", "M"]               
         self.frontEnd = ["HTML", "CSS"]
-        self.software = {"Coding": ["vscode", "sublime", "Matlab", "Git", "jupiter", "Spyder"],
+        self.code = {"Software": ["VScode", "Matlab", "Git", "Jupiter", "Spyder"],
                          "Hardware Description": ["ISEXilinxs","Vivado", "Quartus"],
-                         "Modeling":["Autocad","Solidworks", "Blender"],
-                         "Writing": ["Office", "Overleaf"]}
-        self.skills = ["Multiagent System", "Optimization", ""] 
+                         "Design":["Autocad","Solidworks", "Blender"],
+                         "Writing": ["Office", "Latex"]}
+        self.skills = ["Multiagent System", "Optimal Control", "Network systems"] 
      def interest(self):
         self.interest = ["ML", "Robotics", "Autonomous Driving", "Science and Technology"]
         for topic in self.interest:
