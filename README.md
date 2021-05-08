@@ -18,7 +18,7 @@ class niospinag:
         self.languages = ["English", "Spanish"]
         self.code = ["python", "C++", "VHDL", "Verilog"]               
         self.frontEnd = ["HTML", "CSS"]
-        self.software = {"Coding": ["vscode", "sublime", "Matlab", "Git", "jupiter", "Spyder"]
+        self.software = {"Coding": ["vscode", "sublime", "Matlab", "Git", "jupiter", "Spyder"],
                          "Hardware Description": ["ISEXilinxs","Vivado", "Quartus"],
                          "Modeling":["Autocad","Solidworks", "Blender"],
                          "Writing": ["Office", "Overleaf"]}
