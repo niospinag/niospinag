@@ -5,9 +5,9 @@
 
 [![](https://img.shields.io/badge/LinkedIn-nestorospina-blue)](https://www.linkedin.com/in/nestor-ospina/)
 [![](https://img.shields.io/badge/Gmail-niospinag%40unal.edu.co-red)](mailto:niospinag@unal.edu.co)
-[![](https://img.shields.io/badge/Schoolar-Nestor%20Ivan%20Ospina-important)]([mailto:niospinag@unal.edu.co](https://scholar.google.com/citations?hl=es&user=LRhuGL8AAAAJ))
+[![](https://img.shields.io/badge/Schoolar-Nestor%20Ivan%20Ospina-important)](https://scholar.google.com/citations?hl=es&user=LRhuGL8AAAAJ)
 [![](https://img.shields.io/badge/Researchgate-Nestor%20Ivan%20Ospina-brightgreen)](https://www.researchgate.net/profile/Nestor-Ospina-Gaitan)
-[![](https://img.shields.io/badge/Linkedin-Nestor%20Ospina-blue)](https://www.linkedin.com/in/nestor-ospina/)
+<!-- [![](https://img.shields.io/badge/Linkedin-Nestor%20Ospina-blue)](https://www.linkedin.com/in/nestor-ospina/) -->
 
 
 ### <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"> A little more about me...  
