@@ -35,11 +35,11 @@ class niospinag:
         self.education = {"Bachelor's in Electrical Engineering": "Universidad Nacional de Colombia",
                            "Master in Industrial Aautomation"   : "Universidad Nacional de Colombia" }
         self.languages = ["English", "Spanish"]
-        self.code = ["Python", "C++", "VHDL", "Verilog", "M"]               
+        self.code = ["Python", "C++", "Shell", "Latex", "Git", "ROS", "VHDL", "Verilog", "M"]               
         self.frontEnd = ["HTML", "CSS"]
-        self.software = {"Programming": ["VScode", "Matlab", "Git", "Jupiter", "Spyder"],
+        self.Tools = {"Programming": ["VScode", "Matlab", "Arduino", "Git", "Jupiter", "Spyder"],
+                         "Design":["Solidworks", "Adobe Illustrator", "Autocad"],
                          "Hardware Description": ["ISEXilinxs","Vivado", "Quartus"],
-                         "Design":["Autocad","Solidworks", "Blender"],
                          "Writing": ["Office", "Latex"]}
         self.skills = ["Multiagent System", "Optimal Control", "Network systems"] 
      def interest(self):
@@ -74,6 +74,9 @@ class niospinag:
     </a> 
     <a href="#">
     <img src="svg/ros.svg" alt="ROS" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+     <a href="#">
+    <img src="svg/verilog.svg" alt="Verilog" style="vertical-align:top; margin:6px 4px" height="40">
   </a> 
    </a> 
     <a href="#">
