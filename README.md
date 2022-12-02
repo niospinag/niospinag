@@ -5,16 +5,16 @@
  <h3>Contact me</h3> 
  <br> 
 <p align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/nestor-ospina/" target="_blank">
     <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px" height="40">
   </a> 
-  <a href="#">
+  <a href="mailto:niospinag@unal.edu.co" target="_blank">
     <img src="svg/gmail.svg" alt="Gmail" style="vertical-align:top; margin:6px 4px" height="40">
   </a> 
-  <a href="#">
+  <a href="https://scholar.google.com/citations?hl=es&user=LRhuGL8AAAAJ" target="_blank">
     <img src="svg/scholar.svg" alt="Google Scholar" style="vertical-align:top; margin:6px 4px" height="40">
   </a> 
-    <a href="#">
+    <a href="https://www.researchgate.net/profile/Nestor-Ospina-Gaitan" target="_blank">
     <img src="svg/researchgate.svg" alt="ResearchGate" style="vertical-align:top; margin:6px 4px" height="40">
   </a> 
 </p>
