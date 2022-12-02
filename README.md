@@ -2,8 +2,8 @@
 
 ## Hi, I'm Nestor Ospina 
 ## Master Student 👨‍💻
-<h3>Contact me</h3>
-<br>
+<!-- <h3>Contact me</h3> -->
+<!-- <br> -->
 <p align="center">
   <a href="#">
     <img src="svg/cplus.svg" alt="cplus" style="vertical-align:top; margin:6px 4px">
