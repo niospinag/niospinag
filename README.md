@@ -5,7 +5,17 @@
 <h3>Contact me</h3>
 <p align="center">
   <a href="#">
-    <img src="svg/cplus.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/cplus.svg" alt="cplus" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+  
+  <a href="#">
+    <img src="svg/git.svg" alt="cplus" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+  
+  <a href="#">
+    <img src="svg/html.svg" alt="cplus" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
 
