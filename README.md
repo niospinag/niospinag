@@ -88,12 +88,45 @@ class niospinag:
     <img src="svg/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px" height="40">
   </a> 
     </a> 
-    <a href="#">
-    <img src="svg/researchgate.svg" alt="ResearchGate" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
 </p>
 
+### Tools
 
+<p align="left">
+  <a href="#">
+    <img src="svg/matlab.svg" alt="Matlab" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+  <a href="#">
+    <img src="svg/vscode.svg" alt="Visual Estudio Code" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+  <a href="#">
+    <img src="svg/pycharm.svg" alt="Pycharm" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    <a href="#">
+    <img src="svg/office.svg" alt="Office" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+   </a> 
+    <a href="#">
+    <img src="svg/solidworks.svg" alt="Solidworks" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    </a> 
+    <a href="#">
+    <img src="svg/illustrator.svg" alt="Adobe Illustrator" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+   </a> 
+    <a href="#">
+    <img src="svg/arduino.svg" alt="Arduino" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    </a> 
+    <a href="#">
+    <img src="svg/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    </a> 
+    <a href="#">
+    <img src="svg/github.svg" alt="GitHub" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    </a> 
+</p>
 
 <hr>
 
