@@ -175,7 +175,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
+
 <p align="center">
     
 [![Nestor's github stats](https://github-readme-stats.vercel.app/api?username=niospinag&show_icons=true&theme=dark)](https://github.com/niospinag)
