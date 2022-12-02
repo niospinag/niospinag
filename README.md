@@ -6,7 +6,6 @@
 <!-- <br> -->
 <p align="center">
   <a href="#">
-    <img src="svg/cplus.svg" alt="cplus" style="vertical-align:top; margin:6px 4px" height="30" >
   </a> 
   
   
