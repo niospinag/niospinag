@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #659ad2;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #194781;
+      }
+
+      .cls-3 {
+        font-family: SegoeUI-Bold, 'Segoe UI';
+        font-size: 15.02px;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #111519;
+      }
+
+      .cls-6 {
+        fill: #00599d;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-8 {
+        fill: none;
+      }
+
+      .cls-9 {
+        fill: #3860ad;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-8" width="74" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-7">
+      <path class="cls-5" d="M68.88,0H30.88V32h38c2.76,0,5-2.24,5-5V5c0-2.76-2.24-5-5-5Z"/>
+      <path class="cls-9" d="M31,0H5C2.24,0,0,2.24,0,5V27c0,2.76,2.24,5,5,5H31V0Z"/>
+      <g>
+        <path class="cls-6" d="M31,6H12V25H31V6Z"/>
+        <path class="cls-4" d="M31,24.62L10.48,13.01H0v14.22c0,2.76,2.24,5,5,5H31v-7.61Z"/>
+        <path class="cls-1" d="M0,24.46L31,6.92V0H5C2.24,0,0,2.24,0,5V24.46Z"/>
+      </g>
+      <text class="cls-3" transform="translate(37.54 21.81)"><tspan x="0" y="0">C++</tspan></text>
+      <path class="cls-2" d="M26.73,16.64h-1.06v1.06h-1.06v-1.06h-1.06v-1.06h1.06v-1.06h1.06v1.06h1.06v1.06ZM13.53,6.86c3.39,0,6.36,1.82,7.97,4.54l.05,.08-4.03,2.32c-.8-1.37-2.28-2.3-3.99-2.3-2.55,0-4.61,2.06-4.61,4.61,0,.83,.22,1.61,.61,2.29,.79,1.39,2.29,2.32,4,2.32s3.19-.93,3.99-2.3l.03-.05,4.02,2.33c-1.6,2.79-4.6,4.67-8.04,4.67s-6.43-1.87-8.03-4.65c-.78-1.36-1.23-2.93-1.23-4.61,0-5.11,4.15-9.26,9.26-9.26Zm8.26,7.66v1.06h1.06v1.06h-1.06v1.06h-1.06v-1.06h-1.06v-1.06h1.06v-1.06h1.06Z"/>
+    </g>
+  </g>
+</svg>
