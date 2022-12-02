@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.38 32">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: SegoeUI-Bold, 'Segoe UI';
+        font-size: 15.02px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #111519;
+      }
+
+      .cls-4 {
+        fill: #076aae;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path class="cls-4" d="M31,0H5C2.24,0,0,2.24,0,5V27c0,2.76,2.24,5,5,5H31V0Z"/>
+      <path class="cls-3" d="M68.38,0H30.38V32h38c2.76,0,5-2.24,5-5V5C73.38,2.24,71.14,0,68.38,0Z"/>
+      <text class="cls-2" transform="translate(36.81 21.26)"><tspan class="cls-5" x="0" y="0">R</tspan><tspan x="9.66" y="0">OS</tspan></text>
+      <g>
+        <circle class="cls-1" cx="15.5" cy="16" r="1.95"/>
+        <circle class="cls-1" cx="7.69" cy="16" r="1.95"/>
+        <circle class="cls-1" cx="23.31" cy="16" r="1.95"/>
+        <circle class="cls-1" cx="15.5" cy="23.46" r="1.95"/>
+        <circle class="cls-1" cx="7.69" cy="23.46" r="1.95"/>
+        <circle class="cls-1" cx="23.31" cy="23.46" r="1.95"/>
+        <circle class="cls-1" cx="15.5" cy="8.54" r="1.95"/>
+        <circle class="cls-1" cx="7.69" cy="8.54" r="1.95"/>
+        <circle class="cls-1" cx="23.31" cy="8.54" r="1.95"/>
+      </g>
+    </g>
+  </g>
+</svg>

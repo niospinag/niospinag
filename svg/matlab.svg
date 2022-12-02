@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 97.47 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4c99d3;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: #376e9c;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-family: SegoeUI-Bold, 'Segoe UI';
+        font-size: 15.02px;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #111519;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="16.22" y1="775.43" x2="14.61" y2="770.22" gradientTransform="translate(0 -760)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#551423"/>
+      <stop offset=".23" stop-color="#562333"/>
+      <stop offset=".36" stop-color="#563444"/>
+      <stop offset=".51" stop-color="#674556"/>
+      <stop offset=".66" stop-color="#566689"/>
+      <stop offset=".84" stop-color="#3098d4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="27.86" y1="-2401.97" x2="11.63" y2="-2397.99" gradientTransform="translate(0 -2383.28) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".08" stop-color="#cc3533"/>
+      <stop offset=".19" stop-color="#de5439"/>
+      <stop offset=".31" stop-color="#f06e3e"/>
+      <stop offset=".42" stop-color="#f58045"/>
+      <stop offset=".5" stop-color="#f58648"/>
+      <stop offset=".58" stop-color="#f57f45"/>
+      <stop offset=".7" stop-color="#ef6c3e"/>
+      <stop offset=".83" stop-color="#dd4d37"/>
+      <stop offset=".92" stop-color="#cf3833"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path class="cls-5" d="M93.1,0H31V32h62.1c2.41,0,4.37-2.24,4.37-5V5c0-2.76-1.96-5-4.37-5Z"/>
+      <path class="cls-3" d="M31,0H5C2.24,0,0,2.24,0,5V27c0,2.76,2.24,5,5,5H31V0Z"/>
+      <text class="cls-4" transform="translate(38.91 21.47)"><tspan x="0" y="0">Matlab</tspan></text>
+      <g>
+        <path class="cls-1" d="M2.88,17.4l7.18-2.9c.73-.96,1.55-1.85,2.45-2.66,.59-.32,1.71-.14,3.76-2.69,1.98-2.48,2.61-4.6,3.54-4.6,1.47,0,2.55,3.17,4.19,7.98,1.17,3.67,2.54,7.27,4.11,10.79-1.71-1.6-3.17-3.32-4.84-3.27-1.55,.04-3.27,1.87-5.15,4.24-1.5,1.89-3.48,3.19-4.25,3.16,0,0-2-5.66-3.68-6.58-.71-.29-1.51-.22-2.15,.18l-5.15-3.66h0Z"/>
+        <path class="cls-6" d="M18.92,5.2c-.6,.81-1.33,2.3-2.65,3.95-2.05,2.54-3.15,2.37-3.76,2.69-.91,.8-1.73,1.69-2.45,2.66l2.97,2.17c2.52-3.44,3.88-7.17,4.93-9.59,.26-.65,.58-1.28,.96-1.87Z"/>
+        <path class="cls-2" d="M19.83,4.55c-1.96,0-3.31,10.35-10.56,16.12,2.04-.33,3.8,4.72,4.61,6.77,3.6-.61,6.49-7.51,9.4-7.4,1.67,.06,3.13,1.68,4.84,3.27-3.91-8.22-5.74-18.76-8.29-18.76Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
