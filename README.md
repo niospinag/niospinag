@@ -19,10 +19,10 @@
   </a> 
 </p>
 
-[![](https://img.shields.io/badge/LinkedIn-nestorospina-blue)](https://www.linkedin.com/in/nestor-ospina/)
+<!-- [![](https://img.shields.io/badge/LinkedIn-nestorospina-blue)](https://www.linkedin.com/in/nestor-ospina/)
 [![](https://img.shields.io/badge/Gmail-niospinag%40unal.edu.co-red)](mailto:niospinag@unal.edu.co)
 [![](https://img.shields.io/badge/Schoolar-Nestor%20Ivan%20Ospina-important)](https://scholar.google.com/citations?hl=es&user=LRhuGL8AAAAJ)
-[![](https://img.shields.io/badge/Researchgate-Nestor%20Ivan%20Ospina-brightgreen)](https://www.researchgate.net/profile/Nestor-Ospina-Gaitan)
+[![](https://img.shields.io/badge/Researchgate-Nestor%20Ivan%20Ospina-brightgreen)](https://www.researchgate.net/profile/Nestor-Ospina-Gaitan) -->
 <!-- [![](https://img.shields.io/badge/Linkedin-Nestor%20Ospina-blue)](https://www.linkedin.com/in/nestor-ospina/) -->
 
 
@@ -53,42 +53,46 @@ class niospinag:
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Languages
+<p align="center">
+  <a href="#">
+    <img src="svg/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+  <a href="#">
+    <img src="svg/cplus.svg" alt="Cplusplus" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+  <a href="#">
+    <img src="svg/latex.svg" alt="Latex" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    <a href="#">
+    <img src="svg/git.svg" alt="Git" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+   </a> 
+    <a href="#">
+    <img src="svg/shell.svg" alt="Shell" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    </a> 
+    <a href="#">
+    <img src="svg/ros.svg" alt="ROS" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+   </a> 
+    <a href="#">
+    <img src="svg/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    </a> 
+    <a href="#">
+    <img src="svg/css.svg" alt="CSS" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    </a> 
+    <a href="#">
+    <img src="svg/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+    </a> 
+    <a href="#">
+    <img src="svg/researchgate.svg" alt="ResearchGate" style="vertical-align:top; margin:6px 4px" height="40">
+  </a> 
+</p>
+
 
 
 <hr>
