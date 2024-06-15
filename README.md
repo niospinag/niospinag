@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Hi, I'm Nestor Ospina 
-## Master Student 👨‍💻
+## Master in Industrial Automation 👨‍💻
  <h3>Contact me</h3> 
  <br> 
 <p align="center">
