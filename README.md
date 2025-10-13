@@ -1,192 +1,126 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  
+  # Nestor Ivan Ospina Gaitan
+  ### Master in Industrial Automation | Electrical Engineer
+  
+  <p>
+    <a href="https://www.linkedin.com/in/nestor-ospina/" target="_blank">
+      <img src="svg/linkedin.svg" alt="LinkedIn" height="35">
+    </a>
+    <a href="mailto:niospinag@unal.edu.co" target="_blank">
+      <img src="svg/gmail.svg" alt="Gmail" height="35">
+    </a>
+    <a href="https://scholar.google.com/citations?hl=es&user=LRhuGL8AAAAJ" target="_blank">
+      <img src="svg/scholar.svg" alt="Google Scholar" height="35">
+    </a>
+    <a href="https://www.researchgate.net/profile/Nestor-Ospina-Gaitan" target="_blank">
+      <img src="svg/researchgate.svg" alt="ResearchGate" height="35">
+    </a>
+  </p>
+</div>
 
-## Hi, I'm Nestor Ospina 
-## Master in Industrial Automation 👨‍💻
- <h3>Contact me</h3> 
- <br> 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nestor-ospina/" target ="_blank">
-    <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-  <a href="mailto:niospinag@unal.edu.co" target ="_blank">
-    <img src="svg/gmail.svg" alt="Gmail" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-  <a href="https://scholar.google.com/citations?hl=es&user=LRhuGL8AAAAJ" target ="_blank">
-    <img src="svg/scholar.svg" alt="Google Scholar" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    <a href="https://www.researchgate.net/profile/Nestor-Ospina-Gaitan" target ="_blank">
-    <img src="svg/researchgate.svg" alt="ResearchGate" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-</p>
+---
 
-<!-- [![](https://img.shields.io/badge/LinkedIn-nestorospina-blue)](https://www.linkedin.com/in/nestor-ospina/)
-[![](https://img.shields.io/badge/Gmail-niospinag%40unal.edu.co-red)](mailto:niospinag@unal.edu.co)
-[![](https://img.shields.io/badge/Schoolar-Nestor%20Ivan%20Ospina-important)](https://scholar.google.com/citations?hl=es&user=LRhuGL8AAAAJ)
-[![](https://img.shields.io/badge/Researchgate-Nestor%20Ivan%20Ospina-brightgreen)](https://www.researchgate.net/profile/Nestor-Ospina-Gaitan) -->
-<!-- [![](https://img.shields.io/badge/Linkedin-Nestor%20Ospina-blue)](https://www.linkedin.com/in/nestor-ospina/) -->
-
-
-### <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40"> About Me
 
 ```python
-class niospinag:
+class NestorOspina:
     def __init__(self):
         self.name = "Nestor Ivan Ospina Gaitan"
-        self.education = {"Bachelor's in Electrical Engineering": "Universidad Nacional de Colombia",
-                           "Master in Industrial Aautomation"   : "Universidad Nacional de Colombia" }
-        self.languages = ["English", "Spanish"]
-        self.code = ["Python", "C++", "Shell", "Latex", "Git", "ROS", "VHDL", "Verilog", "M"]               
-        self.frontEnd = ["HTML", "CSS"]
-        self.Tools = {"Programming": ["VScode", "Matlab", "Arduino", "Git", "Jupiter", "Spyder"],
-                         "Design":["Solidworks", "Adobe Illustrator", "Autocad"],
-                         "Hardware Description": ["ISEXilinxs","Vivado", "Quartus"],
-                         "Writing": ["Office", "Latex"]}
-        self.skills = ["Multiagent System", "Optimal Control", "Network systems"] 
-     def interest(self):
-        self.interest = ["ML", "Robotics", "Autonomous Driving", "Science and Technology"]
-        for topic in self.interest:
-            print("I'm interest in ", topic)
+        self.location = "Colombia 🇨🇴"
         
+        self.education = {
+            "Master's": "Industrial Automation - Universidad Nacional de Colombia",
+            "Bachelor's": "Electrical Engineering - Universidad Nacional de Colombia"
+        }
         
+        self.languages = {
+            "human": ["Spanish (Native)", "English"],
+            "programming": ["Python", "C++", "Shell", "LaTeX", "Git", "ROS", "VHDL", "Verilog", "MATLAB"],
+            "web": ["HTML", "CSS", "JavaScript"]
+        }
+        
+        self.interests = [
+            "Machine Learning",
+            "Robotics", 
+            "Autonomous Driving",
+            "Multiagent Systems",
+            "Optimal Control",
+            "Network Systems"
+        ]
+    
+    def current_focus(self):
+        return "Developing intelligent control systems and exploring robotics applications"
 ```
 
+---
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## 🛠️ Tech Stack
 
-### Languages
-<p align="left">
-  <a href="#">
-    <img src="svg/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-  <a href="#">
-    <img src="svg/cplus.svg" alt="Cplusplus" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-  <a href="#">
-    <img src="svg/latex.svg" alt="Latex" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    <a href="#">
-    <img src="svg/git.svg" alt="Git" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-   </a> 
-    <a href="#">
-    <img src="svg/shell.svg" alt="Shell" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    </a> 
-    <a href="#">
-    <img src="svg/ros.svg" alt="ROS" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-     <a href="#">
-    <img src="svg/verilog.svg" alt="Verilog" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-   </a> 
-    <a href="#">
-    <img src="svg/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    </a> 
-    <a href="#">
-    <img src="svg/css.svg" alt="CSS" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    </a> 
-    <a href="#">
-    <img src="svg/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    </a> 
-</p>
-
-<hr>
-
-### Tools
-
-<p align="left">
-  <a href="#">
-    <img src="svg/matlab.svg" alt="Matlab" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-  <a href="#">
-    <img src="svg/vscode.svg" alt="Visual Estudio Code" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-  <a href="#">
-    <img src="svg/pycharm.svg" alt="Pycharm" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    <a href="#">
-    <img src="svg/office.svg" alt="Office" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-   </a> 
-    <a href="#">
-    <img src="svg/solidworks.svg" alt="Solidworks" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    </a> 
-    <a href="#">
-    <img src="svg/illustrator.svg" alt="Adobe Illustrator" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-   </a> 
-    <a href="#">
-    <img src="svg/arduino.svg" alt="Arduino" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    </a> 
-    <a href="#">
-    <img src="svg/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    </a> 
-    <a href="#">
-    <img src="svg/github.svg" alt="GitHub" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-    </a> 
-</p>
-
-<hr>
-
-### Devices
-
-<p align="left">
-  <a href="#">
-    <img src="svg/pc.svg" alt="PC" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-  <a href="#">
-    <img src="svg/raspi.svg" alt="Raspberry Pi" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
-  <a href="#">
-    <img src="svg/micro.svg" alt="Microcontroller" style="vertical-align:top; margin:6px 4px" height="40">
-  </a> 
- 
-</p>
-
-<br />
-
-
-
-<hr>
-
-
-<!--
-
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
-
-**niospinag/niospinag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Languages & Frameworks
 
 <p align="center">
-    
-[![Nestor's github stats](https://github-readme-stats.vercel.app/api?username=niospinag&show_icons=true&theme=dark)](https://github.com/niospinag)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niospinag&show_icons=true&theme=dark&layout=compact&hide_border=true)](https://github.com/niospinag?tab=repositories)
+  <img src="svg/python.svg" alt="Python" height="50" style="margin: 10px">
+  <img src="svg/cplus.svg" alt="C++" height="50" style="margin: 10px">
+  <img src="svg/ros.svg" alt="ROS" height="50" style="margin: 10px">
+  <img src="svg/git.svg" alt="Git" height="50" style="margin: 10px">
+  <img src="svg/latex.svg" alt="LaTeX" height="50" style="margin: 10px">
+  <img src="svg/shell.svg" alt="Shell" height="50" style="margin: 10px">
+  <img src="svg/verilog.svg" alt="Verilog" height="50" style="margin: 10px">
+  <img src="svg/html.svg" alt="HTML" height="50" style="margin: 10px">
+  <img src="svg/css.svg" alt="CSS" height="50" style="margin: 10px">
+  <img src="svg/javascript.svg" alt="JavaScript" height="50" style="margin: 10px">
 </p>
 
+### Development Tools
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niospinag&show_icons=true&theme=dark&line_height=30)](https://github.com/niospinag/github-readme-stats) -->
-<hr>
-<p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
-
-  <img src="https://profile-counter.glitch.me/niospinag/count.svg" />
+<p align="center">
+  <img src="svg/vscode.svg" alt="VS Code" height="50" style="margin: 10px">
+  <img src="svg/pycharm.svg" alt="PyCharm" height="50" style="margin: 10px">
+  <img src="svg/matlab.svg" alt="MATLAB" height="50" style="margin: 10px">
+  <img src="svg/arduino.svg" alt="Arduino" height="50" style="margin: 10px">
+  <img src="svg/github.svg" alt="GitHub" height="50" style="margin: 10px">
+  <img src="svg/bash.svg" alt="Bash" height="50" style="margin: 10px">
 </p>
+
+### Design & Hardware
+
+<p align="center">
+  <img src="svg/solidworks.svg" alt="SolidWorks" height="50" style="margin: 10px">
+  <img src="svg/illustrator.svg" alt="Illustrator" height="50" style="margin: 10px">
+  <img src="svg/office.svg" alt="Office" height="50" style="margin: 10px">
+  <img src="svg/raspi.svg" alt="Raspberry Pi" height="50" style="margin: 10px">
+  <img src="svg/micro.svg" alt="Microcontroller" height="50" style="margin: 10px">
+  <img src="svg/pc.svg" alt="PC" height="50" style="margin: 10px">
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niospinag&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niospinag&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170">
+</div>
+
+---
+
+## 🎯 Research Interests
+
+- 🤖 **Robotics & Automation**: Developing intelligent autonomous systems
+- 🧠 **Machine Learning**: Applying AI to control and optimization problems
+- 🚗 **Autonomous Driving**: Self-driving technologies and perception systems
+- 🔄 **Multiagent Systems**: Coordination and control of distributed systems
+- ⚡ **Optimal Control**: Advanced control strategies for complex systems
+- 🌐 **Network Systems**: Communication and distributed control architectures
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/niospinag/count.svg" alt="Visitor Count">
+  
+  ### 💬 Feel free to reach out for collaborations or just a chat about technology!
+  
+  <sub>⭐️ From [niospinag](https://github.com/niospinag)</sub>
+</div>
