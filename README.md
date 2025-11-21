@@ -1,126 +1,67 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-  
-  # Nestor Ivan Ospina Gaitan
-  ### Master in Industrial Automation | Electrical Engineer
+  <h1>Hi there, I'm Néstor Ospina! 👋</h1>
+  <h3>Robotics Software Engineer | ROS2 & Navigation Specialist</h3>
   
   <p>
-    <a href="https://www.linkedin.com/in/nestor-ospina/" target="_blank">
-      <img src="svg/linkedin.svg" alt="LinkedIn" height="35">
-    </a>
-    <a href="mailto:niospinag@unal.edu.co" target="_blank">
-      <img src="svg/gmail.svg" alt="Gmail" height="35">
-    </a>
-    <a href="https://scholar.google.com/citations?hl=es&user=LRhuGL8AAAAJ" target="_blank">
-      <img src="svg/scholar.svg" alt="Google Scholar" height="35">
-    </a>
-    <a href="https://www.researchgate.net/profile/Nestor-Ospina-Gaitan" target="_blank">
-      <img src="svg/researchgate.svg" alt="ResearchGate" height="35">
-    </a>
+    Based in Bogotá, Colombia 🇨🇴 | Open to Remote & Global Roles 🌍
   </p>
+
+  <a href="https://www.linkedin.com/in/nestor-ospina">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nestorivan.o@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=microsoftoutlook" alt="Email"/>
+  </a>
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40"> About Me
+### 🤖 About Me
 
-```python
-class NestorOspina:
-    def __init__(self):
-        self.name = "Nestor Ivan Ospina Gaitan"
-        self.location = "Colombia 🇨🇴"
-        
-        self.education = {
-            "Master's": "Industrial Automation - Universidad Nacional de Colombia",
-            "Bachelor's": "Electrical Engineering - Universidad Nacional de Colombia"
-        }
-        
-        self.languages = {
-            "human": ["Spanish (Native)", "English"],
-            "programming": ["Python", "C++", "Shell", "LaTeX", "Git", "ROS", "VHDL", "Verilog", "MATLAB"],
-            "web": ["HTML", "CSS", "JavaScript"]
-        }
-        
-        self.interests = [
-            "Machine Learning",
-            "Robotics", 
-            "Autonomous Driving",
-            "Multiagent Systems",
-            "Optimal Control",
-            "Network Systems"
-        ]
-    
-    def current_focus(self):
-        return "Developing intelligent control systems and exploring robotics applications"
-```
+I am a **Robotics Software Engineer** with a Master's in Industrial Automation and a strong background in deploying autonomous systems. I bridge the gap between **simulation (Gazebo)** and **real-world deployment** on embedded edge devices.
+
+*   🔭 I’m currently working on **ROS2 Navigation Stacks (Nav2) and Sensor Fusion**.
+*   🏎️ My passion lies in **Autonomous Mobile Robots (AMR)**, Path Planning, and Computer Vision.
+*   🛠️ I have experience deploying nodes on **NVIDIA Jetson Orin** and **Raspberry Pi**.
+*   🎓 **M.Sc. Thesis:** Developed a Multi-Agent Robotic System using Game Theory & MPC.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-<p align="center">
-  <img src="svg/python.svg" alt="Python" height="50" style="margin: 10px">
-  <img src="svg/cplus.svg" alt="C++" height="50" style="margin: 10px">
-  <img src="svg/ros.svg" alt="ROS" height="50" style="margin: 10px">
-  <img src="svg/git.svg" alt="Git" height="50" style="margin: 10px">
-  <img src="svg/latex.svg" alt="LaTeX" height="50" style="margin: 10px">
-  <img src="svg/shell.svg" alt="Shell" height="50" style="margin: 10px">
-  <img src="svg/verilog.svg" alt="Verilog" height="50" style="margin: 10px">
-  <img src="svg/html.svg" alt="HTML" height="50" style="margin: 10px">
-  <img src="svg/css.svg" alt="CSS" height="50" style="margin: 10px">
-  <img src="svg/javascript.svg" alt="JavaScript" height="50" style="margin: 10px">
-</p>
-
-### Development Tools
-
-<p align="center">
-  <img src="svg/vscode.svg" alt="VS Code" height="50" style="margin: 10px">
-  <img src="svg/pycharm.svg" alt="PyCharm" height="50" style="margin: 10px">
-  <img src="svg/matlab.svg" alt="MATLAB" height="50" style="margin: 10px">
-  <img src="svg/arduino.svg" alt="Arduino" height="50" style="margin: 10px">
-  <img src="svg/github.svg" alt="GitHub" height="50" style="margin: 10px">
-  <img src="svg/bash.svg" alt="Bash" height="50" style="margin: 10px">
-</p>
-
-### Design & Hardware
-
-<p align="center">
-  <img src="svg/solidworks.svg" alt="SolidWorks" height="50" style="margin: 10px">
-  <img src="svg/illustrator.svg" alt="Illustrator" height="50" style="margin: 10px">
-  <img src="svg/office.svg" alt="Office" height="50" style="margin: 10px">
-  <img src="svg/raspi.svg" alt="Raspberry Pi" height="50" style="margin: 10px">
-  <img src="svg/micro.svg" alt="Microcontroller" height="50" style="margin: 10px">
-  <img src="svg/pc.svg" alt="PC" height="50" style="margin: 10px">
-</p>
-
----
-
-## 📊 GitHub Statistics
+### 💻 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niospinag&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niospinag&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170">
+
+| **Languages** | **Robotics & Simulation** | **Hardware & Embedded** | **Tools & OS** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,cpp,bash,matlab" width="180"/> | <img src="https://skillicons.dev/icons?i=ros,opencv" width="90"/> <br> **Gazebo / Nav2 / MoveIt** | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" width="90"/> <br> **NVIDIA Jetson / Sensors** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,docker,jenkins" width="220"/> |
+
 </div>
 
 ---
 
-## 🎯 Research Interests
+### 🚀 Featured Projects
 
-- 🤖 **Robotics & Automation**: Developing intelligent autonomous systems
-- 🧠 **Machine Learning**: Applying AI to control and optimization problems
-- 🚗 **Autonomous Driving**: Self-driving technologies and perception systems
-- 🔄 **Multiagent Systems**: Coordination and control of distributed systems
-- ⚡ **Optimal Control**: Advanced control strategies for complex systems
-- 🌐 **Network Systems**: Communication and distributed control architectures
+#### 🚄 [Multi-Agent Railway System (M.Sc. Thesis)](https://github.com/niospinag/NOMBRE-DE-TU-REPO-AQUI)
+*A decentralized control system for autonomous agents using Game Theory and Model Predictive Control (MPC).*
+*   **Stack:** Python, Shell, Custom Hardware.
+*   **Highlights:** Designed custom 3D-printed robots, implemented collision avoidance algorithms, and validated on physical testbeds.
+
+#### 🤖 [ROS2 Navigation Experiments](https://github.com/niospinag/NOMBRE-DE-TU-REPO-AQUI)
+*Implementation of navigation stacks and custom nodes for differential drive robots.*
+*   **Stack:** ROS2 (Humble), C++, Python, Gazebo.
+*   **Highlights:** Path planning integration (Dijkstra/A*), sensor fusion (EKF) configuration, and URDF modeling.
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/niospinag/count.svg" alt="Visitor Count">
-  
-  ### 💬 Feel free to reach out for collaborations or just a chat about technology!
-  
-  <sub>⭐️ From [niospinag](https://github.com/niospinag)</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=niospinag&show_icons=true&theme=radical&hide_border=true" height="160" alt="Néstor's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niospinag&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub><i>"Robotics is the intersection of software, hardware, and the physical world."</i></sub>
 </div>
