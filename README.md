@@ -41,12 +41,12 @@ I am a **Robotics Software Engineer** with a Master's in Industrial Automation a
 
 ### 🚀 Featured Projects
 
-#### 🚄 [Multi-Agent Railway System (M.Sc. Thesis)](https://github.com/niospinag/NOMBRE-DE-TU-REPO-AQUI)
+#### 🚄 [Multi-Agent Railway System (M.Sc. Thesis)](https://github.com/niospinag/Testbed/tree/main)
 *A decentralized control system for autonomous agents using Game Theory and Model Predictive Control (MPC).*
 *   **Stack:** Python, Shell, Custom Hardware.
 *   **Highlights:** Designed custom 3D-printed robots, implemented collision avoidance algorithms, and validated on physical testbeds.
 
-#### 🤖 [ROS2 Navigation Experiments](https://github.com/niospinag/NOMBRE-DE-TU-REPO-AQUI)
+#### 🤖 [ROS2 Navigation Experiments](https://github.com/niospinag/create_xl)
 *Implementation of navigation stacks and custom nodes for differential drive robots.*
 *   **Stack:** ROS2 (Humble), C++, Python, Gazebo.
 *   **Highlights:** Path planning integration (Dijkstra/A*), sensor fusion (EKF) configuration, and URDF modeling.
